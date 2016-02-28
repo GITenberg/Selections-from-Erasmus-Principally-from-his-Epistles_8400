@@ -1,0 +1,46 @@
+_repo: Selections-from-Erasmus-Principally-from-his-Epistles_8400
+contributor:
+  creator:
+    editor:
+      agent_name: Allen, P. S. (Percy Stafford)
+      alias: Allen, Percy Stafford
+      birthdate: 1869
+      deathdate: 1933
+      gutenberg_agent_id: '2724'
+      url: http://www.gutenberg.org/2009/agents/2724
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+description: Text in Latin, commentary in English.
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8400'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theologians -- Correspondence'
+- !lcsh 'Erasmus, Desiderius, d. 1536'
+- !lcc 'PA'
+tableOfContents: Life of Erasmus -- An ordination examination -- A domestic affray
+  -- A winter journey -- An English country-house -- A visit to court -- Erasmus at
+  Oxford -- An Oxford dinner party -- Learning in England -- A journey to Paris --
+  Erasmus renders account of himself to Colet -- A visit to Lambeth -- A letter to
+  Aldus -- An interview with Grimani -- A conversation at Cambridge -- An encounter
+  with Canossa -- Erasmus' Apologia pro vita sua -- Erasmus' reception at Basel --
+  Bishop Fisher -- A journey from Basel to Louvain -- English universities -- An explosion
+  at Basel -- Archbishop Warham, I -- Archbishop Warham, II -- The lives of Vitrarius
+  and Colet -- Colet and his kinsman -- Thomas More -- A dishonest Londoner -- The
+  condition of English houses -- Fisher's study at Rochester.
+title: 'Selections from Erasmus: Principally from his Epistles'
+url: http://www.gutenberg.org/ebooks/8400
