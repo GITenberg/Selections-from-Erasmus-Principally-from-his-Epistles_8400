@@ -1,4 +1,5 @@
 _repo: Selections-from-Erasmus-Principally-from-his-Epistles_8400
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       deathdate: 1933
       gutenberg_agent_id: '2724'
       url: http://www.gutenberg.org/2009/agents/2724
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Erasmus, Desiderius
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3026
     wikipedia: http://en.wikipedia.org/wiki/Erasmus
 description: Text in Latin, commentary in English.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8400#Selections-from-Erasmus-Principally-from-his-Epistles
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
